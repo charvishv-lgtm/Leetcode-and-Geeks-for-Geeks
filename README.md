@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
