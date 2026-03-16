@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
