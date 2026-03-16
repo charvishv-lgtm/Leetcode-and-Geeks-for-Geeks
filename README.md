@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1480-running-sum-of-1d-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1929-concatenation-of-array) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
