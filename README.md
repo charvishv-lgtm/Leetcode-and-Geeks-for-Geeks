@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1929-concatenation-of-array) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sorting
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Math
 |  |
 | ------- |
