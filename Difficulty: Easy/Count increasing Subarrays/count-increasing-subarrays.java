@@ -1,6 +1,5 @@
 class Solution {
     public int countIncreasing(int[] arr) {
-        // code here
         int n = arr.length;
         int count = 0;
         int len = 1;
@@ -21,5 +20,6 @@ class Solution {
         }
 
         return count;
+        
     }
 }
