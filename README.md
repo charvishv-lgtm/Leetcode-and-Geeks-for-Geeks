@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1929-concatenation-of-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 <!---LeetCode Topics End-->
