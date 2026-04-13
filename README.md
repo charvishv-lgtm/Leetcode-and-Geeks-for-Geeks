@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1929-concatenation-of-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
