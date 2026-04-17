@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1929-concatenation-of-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 <!---LeetCode Topics End-->
