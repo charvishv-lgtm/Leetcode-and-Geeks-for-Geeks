@@ -89,15 +89,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0283-move-zeroes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0141-linked-list-cycle) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
