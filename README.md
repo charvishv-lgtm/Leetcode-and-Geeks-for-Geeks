@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1480-running-sum-of-1d-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1672-richest-customer-wealth) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -109,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0142-linked-list-cycle-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1559-detect-cycles-in-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
