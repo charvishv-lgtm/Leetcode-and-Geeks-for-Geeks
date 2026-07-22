@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0002-add-two-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0142-linked-list-cycle-ii) |
 ## Depth-First Search
