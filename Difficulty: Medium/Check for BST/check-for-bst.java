@@ -20,4 +20,4 @@ class Solution {
         if (node.data<=min || node.data>=max){ return false;}
         return BST(node.left,min,node.data) && BST(node.right,node.data,max); 
     }
-}
+}           
