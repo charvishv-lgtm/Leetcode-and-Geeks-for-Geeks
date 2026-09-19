@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0322-coin-change) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1480-running-sum-of-1d-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0322-coin-change) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0322-coin-change) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0234-palindrome-linked-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/charvishv-lgtm/Leetcode-and-Geeks-for-Geeks/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
